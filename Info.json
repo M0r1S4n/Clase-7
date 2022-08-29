@@ -1,0 +1,10 @@
+[
+    {
+        "nombre" : "Santiago",
+        "edad" : "28",
+        "sexo" : "Masculino",
+        "Nacionalidad" : "Argentina",
+        "estado" : "Soltero",
+        "direccion" : "Calle Siempre Viva 123"
+    }
+]
