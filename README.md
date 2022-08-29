@@ -1,7 +1,7 @@
 # Clase-7
 Tp de la clase en vivo 7
 --------------------------------
- Hola, este es mi primer tp usando repositorios.
+ Hola, este es mi primer tp usando repositorios. MIRALO EN EL EDITOR.
 
 ___________________ ____________________________####___________#####
 _____________________________________________###__ ________________####
